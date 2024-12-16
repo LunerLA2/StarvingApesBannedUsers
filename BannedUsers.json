@@ -1,44 +1,8 @@
 {
-    "bans": [
+    "stuff": [
         {
-            "username": "jnnjhbhm",
-            "reason": "Asking people to grab his tits????"
-        },
-        {
-            "username": "HijnxFrost",
-            "reason": "Dumbasss"
-        },
-        {
-            "username": "EMPTY SLOT",
-            "reason": "EMPTY SLOT"
-        },
-        {
-            "username": "EMPTY SLOT",
-            "reason": "EMPTY SLOT"
-        },
-        {
-            "username": "EMPTY SLOT",
-            "reason": "EMPTY SLOT"
-        },
-        {
-            "username": "EMPTY SLOT",
-            "reason": "EMPTY SLOT"
-        },
-        {
-            "username": "EMPTY SLOT",
-            "reason": "EMPTY SLOT"
-        },
-        {
-            "username": "EMPTY SLOT",
-            "reason": "EMPTY SLOT"
-        },
-        {
-            "username": "Flash_Banda24",
-            "reason": "Stupid ass bitch that called me the n word"
-        },
-        {
-            "username": "reeltruffle",
-            "reason": "Truffle? Why are you playing a primal fear copy? Go threaten some kids with a DMCA like u usually do instead"
+            "Header": "Depricated",
+            "Text": "This banning system is no longer in use so its unable to check who is banned. Please update your game"
         }
     ]
 }
